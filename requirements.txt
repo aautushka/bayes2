@@ -1,0 +1,16 @@
+notebook
+nbconvert
+nbformat
+nbclient
+empiricaldist
+numpy
+pandas
+matplotlib
+statsmodels
+playwright
+seaborn
+pypdf
+pymc>=5,<6
+graphviz
+xlrd
+arviz>=0.15,<0.20
